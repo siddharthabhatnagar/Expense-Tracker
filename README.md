@@ -32,19 +32,19 @@ This project demonstrates **modern Android architecture** using **MVVM, Room, Hi
 ## 📸 Screenshots
 
 ### 🚀 Splash Screen
-![Splash Screen](screenshots/SplashScreen.png)
+![Splash Screen](screenshots/SplashScreen.jpg)
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/HomeScreen.png)
+![Home Screen](screenshots/HomeScreen.jpg)
 
 ### ➕ Add Expense Dialog
-![Add Dialog](screenshots/AddDialog.png)
+![Add Dialog](screenshots/AddDialog.jgg)
 
 ### 📅 MonthlyScreen
-![Year Month Selector](screenshots/MonthlyScreen.png)
+![Year Month Selector](screenshots/MonthlyScreen.jpg)
 
 ### 📊 Monthly Screen(Year wise)
-![Analytics Screen](screenshots/MonthlyScreen2.png)
+![Analytics Screen](screenshots/MonthlyScreen2.jpg)
 
 ---
 
