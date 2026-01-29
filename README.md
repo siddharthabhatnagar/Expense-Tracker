@@ -53,11 +53,10 @@ This project is part of my **10-project Android Development roadmap**, designed 
 ### 📊 Monthly Analytics (Year-wise)
 ![Analytics Screen](screenshots/MonthlyScreen2.jpg)
 
----
+
 
 ## 🧩 Architecture Overview
 
-```text
 UI (Jetpack Compose)
  ↓
 ViewModel
