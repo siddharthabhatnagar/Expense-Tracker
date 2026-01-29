@@ -1,5 +1,5 @@
 # 📊 Expense Tracker App  
-### Project 2 of 10 – Android Internship Portfolio
+### Project 2 of 10 – Android Projects
 
 ---
 
