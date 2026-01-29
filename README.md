@@ -38,7 +38,7 @@ This project demonstrates **modern Android architecture** using **MVVM, Room, Hi
 ![Home Screen](screenshots/HomeScreen.jpg)
 
 ### ➕ Add Expense Dialog
-![Add Dialog](screenshots/AddDialog.jgg)
+![Add Dialog](screenshots/AddDialog.jpg)
 
 ### 📅 MonthlyScreen
 ![Year Month Selector](screenshots/MonthlyScreen.jpg)
